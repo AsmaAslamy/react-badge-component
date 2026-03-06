@@ -1,0 +1,18 @@
+.pageBadge {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: cadetblue;
+  padding-left: 2rem;
+  padding-bottom: 30px;
+  width: 60rem;
+  margin-left: 11rem;
+}
+.badges {
+  border: 1px solid darkslategrey;
+  padding: 10px;
+  margin: 5px;
+  width: 200px;
+  text-align: center;
+}
